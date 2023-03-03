@@ -28,6 +28,13 @@ namespace TiposVarios
 
             // Print variables.
             Console.WriteLine($"\n{e}\n{f}");
+
+            // Booleans variables
+            bool g = true;
+            bool h = false;
+
+            // Print bool
+            Console.WriteLine($"\n{g}\n{h}");
         }
     }
 }
